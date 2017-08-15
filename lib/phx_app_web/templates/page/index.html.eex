@@ -1,0 +1,24 @@
+<div class="jumbotron">
+  <h2><%= gettext "Welcome to %{name}!", name: "Phoenix" %></h2>
+  <p>Phoenix is a web development framework written in Elixir which implements the server-side MVC pattern. Phoenix provides the best of both worlds - high developer productivity and high application performance. </p>
+</div>
+
+<div class="row marketing">
+  <div class="col-lg-6">
+    <h4>Resources</h4>
+    <ul>
+      <li>
+        <a href="/api">API</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="col-lg-6">
+    <h4>Help</h4>
+    <ul>
+      <li>
+        <a href="/about">About Us</a>
+      </li>
+    </ul>
+  </div>
+</div>
