@@ -1,6 +1,6 @@
 # PhxApp
 
-My Experiments with Phoenix Framework
+My Experiments with the latest version of Phoenix, the MVC Framework written in Elixir
 
 To start your Phoenix server:
 

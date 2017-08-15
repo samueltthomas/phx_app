@@ -19,6 +19,7 @@ defmodule PhxAppWeb.Router do
     get "/", PageController, :index
     get "/about", PageController, :about
     get "/api", PageController, :api
+    resources "/users", UserController
   end
 
   # Other scopes may use custom stacks.
